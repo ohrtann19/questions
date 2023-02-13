@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import whiteImg from './white.jpg';
+// import whiteImg from './white.jpg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <img src={whiteImg} className="white-img" alt="test"/>
+        <p>test</p>
+        {/* <img src={whiteImg} className="white-img" alt="test"/>
         <img src={whiteImg} className="white-img" alt="test2"/>
         <img src={whiteImg} className="white-img" alt="test2"/>
         <img src={whiteImg} className="white-img" alt="test2"/>
@@ -21,7 +22,7 @@ function App() {
         <img src={whiteImg} className="white-img" alt="test2"/>
         <img src={whiteImg} className="white-img" alt="test2"/>
         <img src={whiteImg} className="white-img" alt="test2"/>
-        <img src={whiteImg} className="white-img" alt="test2"/>
+        <img src={whiteImg} className="white-img" alt="test2"/> */}
       </header>
     </div>
   );
